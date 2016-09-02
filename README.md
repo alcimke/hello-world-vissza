@@ -10,3 +10,5 @@ edited in pycharm
 plus 1
 
 nezzuk meg most
+
+szerkesztem a githubban
