@@ -8,3 +8,5 @@ the first is not working
 edited in pycharm
 
 plus 1
+
+nezzuk meg most
