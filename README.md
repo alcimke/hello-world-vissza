@@ -12,3 +12,4 @@ plus 1
 nezzuk meg most
 
 szerkesztem a githubban
+2. gihub szerkesztes
